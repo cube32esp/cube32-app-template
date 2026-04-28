@@ -1,0 +1,4 @@
+dependencies:
+  cube32esp/cube32_bsp: "*"
+  idf:
+    version: ">=5.4.0"
